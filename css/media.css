@@ -282,7 +282,7 @@
         padding: 0px;
         background-color: white;
         z-index: 55555555555555;
-        height: 90vh !important;
+        height: 100vh !important;
         /* width: 420px; */
         width: 100%;
         justify-content: space-between;
@@ -329,7 +329,7 @@
     }
     .burger__content{
         padding: 30px;
-        background-color: red;
+        background-color: white;
         z-index: 555;
         /* height: 80vh; */
         width: 360px;
