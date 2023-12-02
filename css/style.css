@@ -1,6 +1,7 @@
 .burger__content{
     /* display: none; */
-    transform: translateY(-830px);
+    /* transform: translateY(-830px); */
+    transform: translateY(-900px);
     display: flex;
 }
 .filter__content{
