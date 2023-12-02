@@ -282,7 +282,7 @@
         padding: 0px;
         background-color: white;
         z-index: 55555555555555;
-        height: 110vh !important;
+        height: 120% !important;
         /* width: 420px; */
         width: 100%;
         justify-content: space-between;
