@@ -281,11 +281,10 @@
     .filter__content{
         padding: 0px;
         background-color: white;
-        z-index: 555555555555555555555555555555555555555555555555555555555555555555;
-        height: 90vh;
+        z-index: 55555555555555;
+        height: 90vh !important;
         /* width: 420px; */
         width: 100%;
-        /* height: 670px; */
         justify-content: space-between;
         position: absolute;
         flex-direction: column;
@@ -330,7 +329,7 @@
     }
     .burger__content{
         padding: 30px;
-        background-color: white;
+        background-color: red;
         z-index: 555;
         /* height: 80vh; */
         width: 360px;
